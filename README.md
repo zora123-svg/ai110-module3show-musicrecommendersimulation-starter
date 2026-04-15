@@ -112,6 +112,8 @@ flowchart TD
 
 ## Screenshots
 ![alt text](<Screenshot 2026-04-14 173913.png>)
+![alt text](<Screenshot 2026-04-14 175846.png>) 
+![alt text](<Screenshot 2026-04-14 175856.png>)
 
 ### Setup
 
